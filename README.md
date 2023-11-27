@@ -34,16 +34,20 @@ Utilizing spaCy's advanced NLP capabilities, the system employs extractive summa
 ## Keyword Extraction for Enhanced Understanding
 •	Keyword extraction is pivotal for distilling the core themes of a document. SpaCy's capabilities in linguistic analysis make it a natural choice for extracting meaningful keywords that encapsulate the essence of the text.
 
+# Methodology 
+## Algorithm
+### insert function
+
 # Conclusion
 ## Use cases
-•	Content Aggregation for News Outlets
-•	Legal Document Summarization for Law Firms
-•	Academic Paper Summarization for Researchers
-•	Medical Report Summarization for Healthcare Professionals
+<p>•	Content Aggregation for News Outlets</p>
+<p>•	Legal Document Summarization for Law Firms</p>
+<p>•	Academic Paper Summarization for Researchers</p>
+<p>•	Medical Report Summarization for Healthcare Professionals</p>
 
-##Enhancements
-•	Multilingual Support
-•	User Customization
-•	Integration with External APIs
-•	Real-time Summarization
-•	Enhanced Keyword Visualization
+## Enhancements
+<p>•	Multilingual Support</p>
+<p>•	User Customization</p>
+<p>•	Integration with External APIs</p>
+<p>•	Real-time Summarization</p>
+<p>•	Enhanced Keyword Visualization</p>
