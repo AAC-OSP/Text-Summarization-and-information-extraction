@@ -28,6 +28,9 @@ insert link
 
 # How to use
 1. Clone this repo. <br>
+-  ```terminal
+   git clone https://github.com/AAC-OSP/Text-Summarization-and-information-extraction
+   ```
 
 1. Install the required libraries from [Requirements](#requirements) <br>
 1. Execute the python script <br>
