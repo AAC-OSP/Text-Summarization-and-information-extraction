@@ -89,7 +89,9 @@ def extract_text_pdf(uploaded_file):
     return text
 
 
-st.title("Text Summarization and Information Extraction")
+
+# Streamlit code
+'''st.title("Text Summarization and Information Extraction")
 
 st.text("Please select your option")
 
@@ -248,4 +250,4 @@ elif option == "File Summary(.pdf)":
                 except ValueError:
                     st.warning("Please enter a valid summary percentage as a number.")
             else:
-                st.warning("The uploaded PDF is empty or the percentage is missing.")
+                st.warning("The uploaded PDF is empty or the percentage is missing.")'''
