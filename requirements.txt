@@ -1,0 +1,5 @@
+flask
+spacy
+requests
+pdfplumber
+beautifulsoup
