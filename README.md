@@ -1,3 +1,7 @@
+<h1 align="centre">
+   <img src="https://i.imgur.com/ycFUTNy.png">
+</h1>
+
 # Table of Contents
 - [Introduction](#introduction) <br>
 - [Requirements](#requirements) <br>
