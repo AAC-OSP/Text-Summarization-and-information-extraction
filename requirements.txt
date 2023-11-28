@@ -1,0 +1,4 @@
+flask
+spacy
+requests
+counter
