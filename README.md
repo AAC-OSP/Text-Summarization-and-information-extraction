@@ -5,7 +5,6 @@
 # Table of Contents
 - [Introduction](#introduction) <br>
 - [Requirements](#requirements) <br>
-- [DB Schema](#db-schema) <br>
 - [Documentation](#documentation) <br>
 - [How to use](#how-to-use) <br>
 - [Contribution](#contribution)
@@ -23,19 +22,6 @@ For running the code, make sure that the following are installed on your local d
 | [requests 2.31.x](https://pypi.org/project/requests/) | <img src="https://i.imgur.com/mprriAB.png" style="width:135px; height:20px;" alt="requests2.31.x"> |
 | [pdfplumber 0.10.x](https://pypi.org/project/pdfplumber/) | <img src="https://i.imgur.com/86qztGR.png" style="width:135px; height:20px;" alt="pdfplumber0.10.x"> |
 | [beautifulsoup4 4.12.x](https://pypi.org/project/beautifulsoup4/) | <img src="https://i.imgur.com/DqvfPbg.png" style="width:135px; height:20px;" alt="beautifulsoup44.12.x"> |
-
-# DB Schema Design
-The app has SQLite named **database.sqlite3** database with 7 tables in the database folder. These tables store user and manager credentials, categories and products managers add, a table to keep track of user purchases, sales for managers and cart to keep track of user items.
-
-|Table Name|Column Details|
-|----------|--------------|
-|managers|manager_id(integer, primary key), username(string), password(string)|
-|users|user_id(integer, primary key), username(string), password(string), email(string)|
-|categories|category_id(string, primary key), name(string), search(string)|
-|products|product_id(string, primary key), category_id(string), name(string), search(string), price(numeric), stock(numeric), unit(string), fractal_allowed(string)|
-|cart|cart_id(string, primary key), user_id(string), product_id(string_, quantity(numeric), unit(string), price(numeric)|
-|sales|product_id(string, primary key), category_id(string), quantity(numeric), sale(numeric)|
-|purchases|Transaction_id(string, primary key), user_id(string), price(numeric), date(string)|
 
 # Documentation
 insert link
