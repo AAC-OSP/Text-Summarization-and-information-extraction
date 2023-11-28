@@ -19,5 +19,13 @@ For running the code, make sure that the following are installed on your local d
 | [pdfplumber 0.10.x](https://pypi.org/project/pdfplumber/) | <img src="https://i.imgur.com/86qztGR.png" style="width:135px; height:20px;" alt="pdfplumber0.10.x"> |
 | [beautifulsoup4 4.12.x](https://pypi.org/project/beautifulsoup4/) | <img src="https://i.imgur.com/DqvfPbg.png" style="width:135px; height:20px;" alt="beautifulsoup44.12.x"> |
 # Documentation
+insert link
+
 # How to use
+1. Clone this repo. <br>
+
+1. Install the required libraries from [Requirements](#requirements) <br>
+1. Execute the python script <br>
+1. Add star to this repo if you liked it 😄
+   
 # Contribution 
