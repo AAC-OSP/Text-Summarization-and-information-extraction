@@ -5,7 +5,6 @@
 # Table of Contents
 - [Introduction](#introduction) <br>
 - [Requirements](#requirements) <br>
-- [Documentation](#documentation) <br>
 - [How to use](#how-to-use) <br>
 - [Contribution](#contribution)
 
@@ -22,9 +21,6 @@ For running the code, make sure that the following are installed on your local d
 | [requests 2.31.x](https://pypi.org/project/requests/) | <img src="https://i.imgur.com/mprriAB.png" style="width:135px; height:20px;" alt="requests2.31.x"> |
 | [pdfplumber 0.10.x](https://pypi.org/project/pdfplumber/) | <img src="https://i.imgur.com/86qztGR.png" style="width:135px; height:20px;" alt="pdfplumber0.10.x"> |
 | [beautifulsoup4 4.12.x](https://pypi.org/project/beautifulsoup4/) | <img src="https://i.imgur.com/DqvfPbg.png" style="width:135px; height:20px;" alt="beautifulsoup44.12.x"> |
-
-# Documentation
-[Documentation](https://docs.google.com/document/d/150PE4IpszBIg3qzidee-FOBLNSQ5m03A/edit?usp=sharing&ouid=100975749327059895837&rtpof=true&sd=true)
 
 # How to use
 1. Clone this repo. <br>
