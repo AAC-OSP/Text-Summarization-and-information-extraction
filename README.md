@@ -24,7 +24,7 @@ For running the code, make sure that the following are installed on your local d
 | [beautifulsoup4 4.12.x](https://pypi.org/project/beautifulsoup4/) | <img src="https://i.imgur.com/DqvfPbg.png" style="width:135px; height:20px;" alt="beautifulsoup44.12.x"> |
 
 # Documentation
-insert link
+[Documentation](https://docs.google.com/document/d/150PE4IpszBIg3qzidee-FOBLNSQ5m03A/edit?usp=sharing&ouid=100975749327059895837&rtpof=true&sd=true)
 
 # How to use
 1. Clone this repo. <br>
